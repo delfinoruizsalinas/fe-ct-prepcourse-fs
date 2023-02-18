@@ -216,7 +216,6 @@ function doWhile(num) {
    // Tu código:
    let i =1;
    do {
-      console.log(num);
       num +=5;
       i++;
    } while (i <=8)
